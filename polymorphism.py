@@ -1,0 +1,12 @@
+print(1+2)
+print("1"+"2")
+print(len("likhitha"))
+li=[1,2,3,"likki"]
+print(len(li))
+dict={
+    1:"likhitha",
+    2:"narasimha",
+    3:"rithik",
+    4:"lahari"
+}
+print(len(dict))
